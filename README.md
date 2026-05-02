@@ -12,7 +12,7 @@ Analysis of customer service data to evaluate performance and satisfaction level
 - Excel
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+https://drive.google.com/file/d/1orLjulKSIs72agB7clfwhDR5RORaoAlB/view?usp=drive_link
 
 ## 📈 Key Insights
 - Majority complaints related to delayed delivery
